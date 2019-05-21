@@ -17,28 +17,34 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Waleed Ashraf"
+description: "All my writings comes here."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+url: https://waleedashraf.me
+logo: "/images/site-logo.png"
 date_format: "%B %-d, %Y"
+<<<<<<< HEAD
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
+=======
+read_time: true
+words_per_minute: 200
+mathjax: # MathJax equations, e.g. true
+>>>>>>> [ghpages] ghpage
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: UA-74330031-1
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: waleedashraf
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: waleedashraf01
 
 # Liquid
 liquid:
@@ -56,6 +62,7 @@ feed:
 
 # Search
 search_full_content: false # can have performance implications for large sites
+highlighter: rouge
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
@@ -75,9 +82,7 @@ search_full_content: false # can have performance implications for large sites
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
 
 # Front Matter Defaults
 defaults:
@@ -102,6 +107,21 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/waleedashraf01
+    icon: fab fa-twitter-square
+  - title: Github
+    url: https://github.com/WaleedAshraf
+    icon: fab fa-github-square
+  - title: Linkedin
+    url: https://www.linkedin.com/in/waleedashraf01
+    icon: fab fa-linkedin
+  - title: Medium
+    url: https://medium.com/@waleedashraf
+    icon: fab fa-medium
+  - title: Facebook
+    url: https://www.facebook.com/waleedashraf01
+    icon: fab fa-facebook-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

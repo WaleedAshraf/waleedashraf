@@ -1,16 +1,21 @@
-# Sample Authors
-# Remove file or replace with your own
-
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+waleed_ashraf:
+  name: Waleed Ashraf
+  picture: /images/avatar_face.png
+  twitter: "@waleedashraf01"
+  email: hy@waleedashraf.me
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/waleedashraf01
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: Facebook
+      url: https://www.facebook.com/waleedashraf01
+      icon: fab fa-facebook-square
+    - title: Linkedin
+      url: https://www.linkedin.com/in/waleedashraf01
+      icon: fab fa-linkedin
+    - title: Medium
+      url: https://medium.com/@waleedashraf
+      icon: fab fa-medium
+    - title: Github
+      url: https://github.com/WaleedAshraf
+      icon: fab fa-github-square
