@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk - JSNation - Amsterdam - Node.js cluster module, rabbitMQ and monolithic to microservices.
+title: Talk - JSNation Amsterdam - Node.js cluster, rabbitMQ and monolithic to microservices.
 excerpt: "breaking monolithic to microservices."
 modified: 2019-06-07T14:26:25+02:00
 tags: [nodejs,pm2,microservices,serverless,rabbitmq]
@@ -14,6 +14,6 @@ comments: true
 share: true
 ---
 
-You can find slides of the talk on [Google Slides](https://docs.google.com/presentation/d/1yZiGPBd8wE54jS7EEyNDLDeNDClFA_MbgZcFF-3eKno/edit?usp=sharing)
+You can find slides of the talk [here: Google Slides](https://docs.google.com/presentation/d/1yZiGPBd8wE54jS7EEyNDLDeNDClFA_MbgZcFF-3eKno/edit?usp=sharing)
 
 I'll post video recording when it's available. 🎉🎉🎊🎊
