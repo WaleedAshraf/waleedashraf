@@ -3,7 +3,6 @@ layout: post
 title: Switching from cluster module to PM2 & RabbitMQ in Node.js?
 excerpt: "How to use PM2 & RabbitMQ in Node.js"
 modified: 2018-04-19T02:23:25+05:00
-tags: [expressjs,nodejs,pm2,rabbitmq,cluster,process,javascript]
 author: waleed_ashraf
 image:
   path: ../images/cover_arch.jpg

@@ -3,7 +3,6 @@ layout: post
 title: A list of major/notable changes in Node.js versions.
 excerpt: "Help you migrate to latest version."
 modified: 2018-04-25T02:23:25+05:00
-tags: [nodejs,version,javascript,latest]
 author: waleed_ashraf
 image:
   path: ../images/cover_arch.jpg

@@ -3,7 +3,6 @@ layout: post
 title: How it starts!
 excerpt: "This is about the begining of time and code."
 modified: 2017-04-08T15:31:25+05:00
-tags: [post,blog]
 author: waleed_ashraf
 image:
   path: ../images/cover_arch.jpg
