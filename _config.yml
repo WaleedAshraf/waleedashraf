@@ -47,8 +47,8 @@ liquid:
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
-feed:
-  path: atom.xml
+# feed:
+#   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 # paginate: 10
@@ -82,14 +82,14 @@ plugins:
   - jekyll-feed
 
 # Front Matter Defaults
-defaults:
-  # Posts defaults
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      share: true
+# defaults:
+#   # Posts defaults
+#   - scope:
+#       path: "_posts"
+#       type: posts
+#     values:
+#       layout: post
+#       share: true
 
 # Site Author
 author:
@@ -119,6 +119,3 @@ footer_links:
   - title: Facebook
     url: https://www.facebook.com/waleedashraf01
     icon: fab fa-facebook-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square

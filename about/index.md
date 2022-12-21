@@ -10,4 +10,4 @@ image:
   creditlink: http://www.newyork-wallpapers.com
 ---
 
-Software Engineer with years of experience in designing and developing Microservices with Kafka, RabbitMQ, SQL/NoSQL Database, RESTful APIs, etc. Member and contributor of many open-source projects, including, Node.js and OpenJS Foundation. Tech speaker at different conferences around the world.
+Engineer/Tech Lead with years of experience focused on Microservices, CDC, Distributed Systems, Kafka, RabbitMQ, SQL/NoSQL Database, RESTful APIs, etc. Member and contributor to many open-source projects, including, Node.js and OpenJS Foundation. Tech speaker at different conferences around the world.

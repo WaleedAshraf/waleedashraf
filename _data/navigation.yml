@@ -1,9 +1,9 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
-- title: Posts
-  url: /posts/
+# - title: Home
+#   url: /
+# - title: Posts
+#   url: /posts/
 # - title: Categories
 #   url: /categories/
 # - title: Tags
@@ -12,7 +12,7 @@
 #   url: /recipes/
 # - title: Search
 #   url: /search/
-- title: About
-  url: /about/
+# - title: About
+#   url: /about/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
