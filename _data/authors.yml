@@ -2,14 +2,11 @@ waleed_ashraf:
   name: Waleed Ashraf
   picture: /images/avatar_face.png
   twitter: "@waleedashraf01"
-  email: hy@waleedashraf.me
+  email: hi@waleedashraf.me
   links:
     - title: Twitter
       url: https://twitter.com/waleedashraf01
       icon: fab fa-twitter-square
-    - title: Facebook
-      url: https://www.facebook.com/waleedashraf01
-      icon: fab fa-facebook-square
     - title: Linkedin
       url: https://www.linkedin.com/in/waleedashraf01
       icon: fab fa-linkedin
